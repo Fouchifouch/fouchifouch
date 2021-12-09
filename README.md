@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A passionate and curious fullstack developer from Paris</h3>
+<h3 align="center">A passionate and curious full-stack developer from Paris</h3>
 
 - 🌱 I’m currently going further with my knowledge **Ruby on Rails and some Javascript**
 
